@@ -1,74 +1,62 @@
-{
-  "epubs": [
-    {
-      "nombre": "mushokuTenseiVolumen1",
-      "portada": "https://LeandroArielAlegre.github.io/epub-wissen/assets/portadas/mushokuTenseiVolumen1.jpg",
-      "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen1.epub"
-    },
-    {
-      "nombre": "mushokuTenseiVolumen2",
-      "portada": "https://LeandroArielAlegre.github.io/epub-wissen/assets/portadas/mushokuTenseiVolumen2.jpg",
-      "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen2.epub"
-    },
-    {
-      "nombre": "mushokuTenseiVolumen3",
-      "portada": "https://LeandroArielAlegre.github.io/epub-wissen/assets/portadas/mushokuTenseiVolumen3.jpg",
-      "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen3.epub"
-    },
-    {
-      "nombre": "mushokuTenseiVolumen4",
-      "portada": "https://LeandroArielAlegre.github.io/epub-wissen/assets/portadas/mushokuTenseiVolumen4.jpg",
-      "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen4.epub"
-    },
-    {
-      "nombre": "mushokuTenseiVolumen5",
-      "portada": "https://LeandroArielAlegre.github.io/epub-wissen/assets/portadas/mushokuTenseiVolumen5.jpg",
-      "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen5.epub"
-    },
-    {
-      "nombre": "mushokuTenseiVolumen6",
-      "portada": "https://LeandroArielAlegre.github.io/epub-wissen/assets/portadas/mushokuTenseiVolumen6.jpg",
-      "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen6.epub"
-    },
-    {
-      "nombre": "mushokuTenseiVolumen7",
-      "portada": "https://LeandroArielAlegre.github.io/epub-wissen/assets/portadas/mushokuTenseiVolumen7.jpg",
-      "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen7.epub"
-    },
-    {
-      "nombre": "mushokuTenseiVolumen8",
-      "portada": "https://LeandroArielAlegre.github.io/epub-wissen/assets/portadas/mushokuTenseiVolumen8.jpg",
-      "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen8.epub"
-    },
-    {
-      "nombre": "mushokuTenseiVolumen9",
-      "portada": "https://LeandroArielAlegre.github.io/epub-wissen/assets/portadas/mushokuTenseiVolumen9.jpg",
-      "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen9.epub"
-    },
-    {
-      "nombre": "mushokuTenseiVolumen10",
-      "portada": "https://LeandroArielAlegre.github.io/epub-wissen/assets/portadas/mushokuTenseiVolumen10.jpg",
-      "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen10.epub"
-    },
-    {
-      "nombre": "mushokuTenseiVolumen11",
-      "portada": "https://LeandroArielAlegre.github.io/epub-wissen/assets/portadas/mushokuTenseiVolumen11.jpg",
-      "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen11.epub"
-    },
-    {
-      "nombre": "mushokuTenseiVolumen12",
-      "portada": "https://LeandroArielAlegre.github.io/epub-wissen/assets/portadas/mushokuTenseiVolumen12.jpg",
-      "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen12.epub"
-    },
-    {
-      "nombre": "mushokuTenseiVolumen13",
-      "portada": "https://LeandroArielAlegre.github.io/epub-wissen/assets/portadas/mushokuTenseiVolumen13.jpg",
-      "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen13.epub"
-    },
-    {
-      "nombre": "mushokuTenseiVolumen14",
-      "portada": "https://LeandroArielAlegre.github.io/epub-wissen/assets/portadas/mushokuTenseiVolumen14.jpg",
-      "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen14.epub"
-    }
-  ]
-}
+[
+  {
+    "nombre": "Mushoku Tensei Volumen 1",
+    "nombreArchivo": "mushokuTenseiVolumen1",
+    "portada": "https://LeandroArielAlegre.github.io/epub-wissen/assets/portadas/mushokuTenseiVolumen1.jpg",
+    "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen1.epub"
+  },
+  {
+    "nombre": "Mushoku Tensei Volumen 2",
+    "nombreArchivo": "mushokuTenseiVolumen2",
+    "portada": "https://LeandroArielAlegre.github.io/epub-wissen/assets/portadas/mushokuTenseiVolumen2.jpg",
+    "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen2.epub"
+  },
+  {
+    "nombre": "Mushoku Tensei Volumen 3",
+    "nombreArchivo": "mushokuTenseiVolumen3",
+    "portada": "https://LeandroArielAlegre.github.io/epub-wissen/assets/portadas/mushokuTenseiVolumen3.jpg",
+    "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen3.epub"
+  },
+  {
+    "nombre": "Mushoku Tensei Volumen 4",
+    "nombreArchivo": "mushokuTenseiVolumen4",
+    "portada": "https://LeandroArielAlegre.github.io/epub-wissen/assets/portadas/mushokuTenseiVolumen4.jpg",
+    "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen4.epub"
+  },
+  {
+    "nombre": "Mushoku Tensei Volumen 5",
+    "nombreArchivo": "mushokuTenseiVolumen5",
+    "portada": "https://LeandroArielAlegre.github.io/epub-wissen/assets/portadas/mushokuTenseiVolumen5.jpg",
+    "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen5.epub"
+  },
+  {
+    "nombre": "Mushoku Tensei Volumen 6",
+    "nombreArchivo": "mushokuTenseiVolumen6",
+    "portada": "https://LeandroArielAlegre.github.io/epub-wissen/assets/portadas/mushokuTenseiVolumen6.jpg",
+    "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen6.epub"
+  },
+  {
+    "nombre": "Mushoku Tensei Volumen 7",
+    "nombreArchivo": "mushokuTenseiVolumen7",
+    "portada": "https://LeandroArielAlegre.github.io/epub-wissen/assets/portadas/mushokuTenseiVolumen7.jpg",
+    "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen7.epub"
+  },
+  {
+    "nombre": "Mushoku Tensei Volumen 8",
+    "nombreArchivo": "mushokuTenseiVolumen8",
+    "portada": "https://LeandroArielAlegre.github.io/epub-wissen/assets/portadas/mushokuTenseiVolumen8.jpg",
+    "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen8.epub"
+  },
+  {
+    "nombre": "Mushoku Tensei Volumen 9",
+    "nombreArchivo": "mushokuTenseiVolumen9",
+    "portada": "https://LeandroArielAlegre.github.io/epub-wissen/assets/portadas/mushokuTenseiVolumen9.jpg",
+    "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen9.epub"
+  },
+  {
+    "nombre": "Mushoku Tensei Volumen 10",
+    "nombreArchivo": "mushokuTenseiVolumen10",
+    "portada": "https://LeandroArielAlegre.github.io/epub-wissen/assets/portadas/mushokuTenseiVolumen10.jpg",
+    "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen10.epub"
+  }
+]
