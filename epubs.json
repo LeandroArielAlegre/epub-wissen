@@ -1,4 +1,5 @@
-[
+{
+  "epubs": [
   {
     "nombre": "Mushoku Tensei Volumen 1",
     "nombreArchivo": "mushokuTenseiVolumen1",
@@ -60,3 +61,4 @@
     "link": "https://LeandroArielAlegre.github.io/epub-wissen/assets/epub/mushokuTenseiVolumen10.epub"
   }
 ]
+}
